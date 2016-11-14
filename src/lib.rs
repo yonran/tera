@@ -30,6 +30,7 @@ mod template;
 mod tera;
 mod filters;
 mod testers;
+mod utils;
 
 
 // Library exports.
